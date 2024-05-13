@@ -11,5 +11,6 @@ fn main()
     let n1=1;
     let n2=3;
     let sum = add(n1,n2);
-    
+
+    printf(sum);
 }
