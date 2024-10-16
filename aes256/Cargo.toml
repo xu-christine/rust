@@ -1,0 +1,12 @@
+[package]
+name = "aes256"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.7.5"
+block-modes = "0.9.1"
+rand = "0.8"
+rust-crypto = "0.2"
+base64 = "0.22.0"
+anyhow = "1.0"
